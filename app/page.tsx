@@ -1,3 +1,5 @@
+import UI from "./ui";
+
 export default function Home() {
-	return <main>dropbox</main>;
+	return <UI />;
 }
